@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balibagtuta
+- 👋 Hi, I’m @ArdsOng
 - 👀 I’m interested in Investments and Trading
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
